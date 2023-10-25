@@ -26,3 +26,5 @@ Playwright Capabilities:
 - Component based testing
 - Playwright Test Runner
 - Docker Support
+
+I have finish setting up playwright, Im gonna continue later. See you.
