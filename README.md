@@ -27,7 +27,7 @@ Playwright Capabilities:
 - Playwright Test Runner
 - Docker Support
 
-Day 2:
+Day 2: 0:00:00 - 1:27:32 (2 hours 30 minute of study)
 
 Today im gonna TRY MY BEST to finish this. Because i got something to do tomorrow.
 
@@ -51,11 +51,11 @@ Okay what? I had a hard time getting xpath. Idk if its me typing wrong thing or 
 - npm = download
 - npx = execute
 
-part 2: (30 minutes)
+part 2: Playwright features (30 minutes)
 
 1. Record test script
-2. Reports
-3. SS and Vid on failure
+2. Reports = reporter
+3. SS and Vid on failure = screnshoot / video
 4. Execution on failure
 5. Auto-wait mechanism
 
@@ -64,3 +64,23 @@ What i learn:
 - npx playwright codegen = to generate code almost all by itself
 - put npx playwright test in playwright.json scripts and i can run with npm (shortcut)
 - all of this is straight forward. almost no code.
+
+part 3: Inputs and Button (48 minutes)
+
+i practice a bit and its safe to say that i understand this 95% and remember the syntax like 50%. Its because i havent use much yet. But you know remembering comes from doing over and over again.
+
+- type() = one by one
+- fill() = all at once
+- almost all the time we use locator() to locate with xpath or css or id anything
+- use expect().toHaveSomething() to assert something
+  - toHaveAttribute()
+  - toHaveText()
+- scrollIntoViewIfNeeded() = self explanatory
+- u can use .click() or .check() for checkbox but its recommended ah u know what i mean
+- the same as cypress, u can use .only() to only execute 1 tc
+
+part 4: alerts and dropdowns
+
+Okay its 8pm now. Actually im pretty tired. I still got thesis to do. IDK if i will be able to finish this today. Okay i mean it is physically impossible unless i speedrun through this withot following the video. Well i think im gonna rest now. IDK if im gonna continue or not. But lets just see. I will take a short break and see if i want to continue or not.
+
+what i learn:

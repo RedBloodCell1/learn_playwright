@@ -41,13 +41,13 @@
       {
         "outputDir": "E:/Discipline/Learn Playwright/test-results",
         "repeatEach": 1,
-        "retries": 0,
+        "retries": 2,
         "id": "",
         "name": "",
         "testDir": "E:/Discipline/Learn Playwright",
         "testIgnore": [],
         "testMatch": [
-          "tests/recorded.test.ts"
+          "tests/basicInteractions.test.ts"
         ],
         "timeout": 30000
       }
@@ -60,13 +60,13 @@
   },
   "suites": [
     {
-      "title": "tests\\recorded.test.ts",
-      "file": "tests/recorded.test.ts",
+      "title": "tests\\basicInteractions.test.ts",
+      "file": "tests/basicInteractions.test.ts",
       "column": 0,
       "line": 0,
       "specs": [
         {
-          "title": "test",
+          "title": "Checkbox",
           "ok": true,
           "tags": [],
           "tests": [
@@ -80,32 +80,21 @@
                 {
                   "workerIndex": 0,
                   "status": "passed",
-                  "duration": 16400,
+                  "duration": 2249,
                   "errors": [],
                   "stdout": [],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2023-10-26T09:08:07.722Z",
-                  "attachments": [
-                    {
-                      "name": "screenshot",
-                      "contentType": "image/png",
-                      "path": "E:\\Discipline\\Learn Playwright\\test-results\\tests-recorded-test\\test-finished-1.png"
-                    },
-                    {
-                      "name": "video",
-                      "contentType": "video/webm",
-                      "path": "E:\\Discipline\\Learn Playwright\\test-results\\tests-recorded-test\\video.webm"
-                    }
-                  ]
+                  "startTime": "2023-10-26T12:57:39.707Z",
+                  "attachments": []
                 }
               ],
               "status": "expected"
             }
           ],
-          "id": "aeb89487b60598200775-764e062666c472cf22f2",
-          "file": "tests/recorded.test.ts",
-          "line": 3,
+          "id": "e8550347d925177e1da7-b5051c99a4b7f4242181",
+          "file": "tests/basicInteractions.test.ts",
+          "line": 42,
           "column": 5
         }
       ]
@@ -113,7 +102,7 @@
   ],
   "errors": [],
   "stats": {
-    "startTime": "2023-10-26T09:08:06.415Z",
-    "duration": 19000.326999999997
+    "startTime": "2023-10-26T12:57:38.723Z",
+    "duration": 4237.237
   }
 }
