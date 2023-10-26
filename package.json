@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "So this is the video im gonna use to learn playwright:\r https://www.youtube.com/watch?v=wawbt1cATsk\r Hope this can help me do well on my test later on. I will setup the environment first and then i will start studying at night.",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "test": "npx playwright test"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
