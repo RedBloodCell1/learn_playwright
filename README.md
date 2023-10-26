@@ -4,7 +4,11 @@ So this is the video im gonna use to learn playwright:
 https://www.youtube.com/watch?v=wawbt1cATsk
 Hope this can help me do well on my test later on. I will setup the environment first and then i will start studying at night.
 
+<<<<<<< HEAD
 Day 1: (22 minutes)
+=======
+Day 1: 0:00 - 8:00 (22 minutes of study)
+>>>>>>> 60a7d415431cd560167d800eb5c31d3c94555b72
 
 Im gonna setup my playwright first.
 
@@ -27,6 +31,7 @@ Playwright Capabilities:
 - Playwright Test Runner
 - Docker Support
 
+<<<<<<< HEAD
 Day 2:
 
 Today im gonna TRY MY BEST to finish this. Because i got something to do tomorrow.
@@ -64,3 +69,6 @@ What i learn:
 - npx playwright codegen = to generate code almost all by itself
 - put npx playwright test in playwright.json scripts and i can run with npm (shortcut)
 - all of this is straight forward. almost no code.
+=======
+I have finish setting up playwright, Im gonna continue later. See you.
+>>>>>>> 60a7d415431cd560167d800eb5c31d3c94555b72
