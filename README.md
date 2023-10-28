@@ -79,8 +79,39 @@ i practice a bit and its safe to say that i understand this 95% and remember the
 - u can use .click() or .check() for checkbox but its recommended ah u know what i mean
 - the same as cypress, u can use .only() to only execute 1 tc
 
-part 4: alerts and dropdowns
-
 Okay its 8pm now. Actually im pretty tired. I still got thesis to do. IDK if i will be able to finish this today. Okay i mean it is physically impossible unless i speedrun through this withot following the video. Well i think im gonna rest now. IDK if im gonna continue or not. But lets just see. I will take a short break and see if i want to continue or not.
 
+Day 3:
+
+part 4: alerts and dropdowns (50 minutes of study)
+
+I end up not continuing. Okay sorry for that. I will continue today and hopefully finish it. There is still hours, but i will try to focus and speedrun it while keeping the integrity.
+
+1. Alerts
+2. Modal Alerts
+3. Dropdown
+4. Advance Dropdown
+5. Slowmo Exec
+
 what i learn:
+
+- toHaveText() = Check entire text
+- toContainText() = Self Explanatory.
+- Use page.on("name", async (alert) =>{}) to handle alert (This is called listener)
+- await alert.accept() / alert.dismiss() = self explanatory (ok/cancel)
+- Use simple inspect and click for modal alert
+
+- page.selectOption("Xpath or anything", {label/value/index})
+  - label = Name
+  - value = simply value
+  - index = self explanatory
+- U can use locator in locator so like locator().locator()
+- launchOptions: {slowMo:} = For slowmo
+
+Okay idk what i am feeling but this is like REALLY REALLY EASY. Not gonna lie once you understand, its only about using function correctly. Okay... Speedrunning
+
+part 5: Frames and window handling
+
+- Interaction with Frames
+- Multiple ways to handle frames
+- Tabs

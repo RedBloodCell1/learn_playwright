@@ -41,13 +41,13 @@
       {
         "outputDir": "E:/Discipline/Learn Playwright/test-results",
         "repeatEach": 1,
-        "retries": 2,
+        "retries": 0,
         "id": "",
         "name": "",
         "testDir": "E:/Discipline/Learn Playwright",
         "testIgnore": [],
         "testMatch": [
-          "tests/basicInteractions.test.ts"
+          "tests/dropdown.test.ts"
         ],
         "timeout": 30000
       }
@@ -60,13 +60,13 @@
   },
   "suites": [
     {
-      "title": "tests\\basicInteractions.test.ts",
-      "file": "tests/basicInteractions.test.ts",
+      "title": "tests\\dropdown.test.ts",
+      "file": "tests/dropdown.test.ts",
       "column": 0,
       "line": 0,
       "specs": [
         {
-          "title": "Checkbox",
+          "title": "Bootstrap dropdown",
           "ok": true,
           "tags": [],
           "tests": [
@@ -80,29 +80,29 @@
                 {
                   "workerIndex": 0,
                   "status": "passed",
-                  "duration": 2249,
+                  "duration": 11362,
                   "errors": [],
                   "stdout": [],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2023-10-26T12:57:39.707Z",
+                  "startTime": "2023-10-28T09:00:50.336Z",
                   "attachments": []
                 }
               ],
               "status": "expected"
             }
           ],
-          "id": "e8550347d925177e1da7-b5051c99a4b7f4242181",
-          "file": "tests/basicInteractions.test.ts",
-          "line": 42,
-          "column": 5
+          "id": "6a3d7e996dd4874286aa-f74c93389da701d9248e",
+          "file": "tests/dropdown.test.ts",
+          "line": 23,
+          "column": 6
         }
       ]
     }
   ],
   "errors": [],
   "stats": {
-    "startTime": "2023-10-26T12:57:38.723Z",
-    "duration": 4237.237
+    "startTime": "2023-10-28T09:00:48.646Z",
+    "duration": 14555.173
   }
 }
