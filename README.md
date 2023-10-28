@@ -81,7 +81,7 @@ i practice a bit and its safe to say that i understand this 95% and remember the
 
 Okay its 8pm now. Actually im pretty tired. I still got thesis to do. IDK if i will be able to finish this today. Okay i mean it is physically impossible unless i speedrun through this withot following the video. Well i think im gonna rest now. IDK if im gonna continue or not. But lets just see. I will take a short break and see if i want to continue or not.
 
-## Day 3:
+## Day 3: 1:27:32 - 2:43:30 (1 hours 50 minutes of study)
 
 ### Part 4: alerts and dropdowns (50 minutes of study)
 
@@ -110,10 +110,20 @@ what i learn:
 
 Okay idk what i am feeling but this is like REALLY REALLY EASY. Not gonna lie once you understand, its only about using function correctly. Okay... Speedrunning
 
-### Part 5: Frames and window handling
+### Part 5: Frames and window handling (1 hours of study) + (2 hours 45 minute of self study)
 
 Okay, after i finished part 4. I am doing something else which is trying to automate something by myself and it took me like almost 3 hours. But i will continue part 5 right now. After part 5, I will see if I still can do part 6. If can't i will continue tomorrow. Not that i can't physically. But i can't mentally. Tomorrow i will also do my Job interview test, wish me luck. I really want to get a job XDDD. Okay lets continue.
 
 - Interaction with Frames
 - Multiple ways to handle frames
 - Tabs
+
+What i learn:
+
+- Frames: We have multiple HTML frames inside HTML.
+- We can use either frameLocator() in which we code normally
+- Or we can use page.frame("xpath or something") and use the built in frame function.
+
+- For mutiple tabs, we can use const[multiPage] = await Promise.all([page.waitForEvent("popup")]),page.click("Locator") I mean yeah its pretty long but i understand (Keyword understant, not remember) but i guess its pretty simple. You can deconstruct all the thing inside and put it into multiPage array which u can then access.
+
+BTW i dont think i can continue anymore. I need to rest because this whole day i study and do my work. IDK why it really feel so so long. See you tomorrow
