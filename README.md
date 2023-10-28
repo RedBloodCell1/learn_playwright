@@ -4,7 +4,7 @@ So this is the video im gonna use to learn playwright:
 https://www.youtube.com/watch?v=wawbt1cATsk
 Hope this can help me do well on my test later on. I will setup the environment first and then i will start studying at night.
 
-Day 1: 0:00 - 8:00 (22 minutes of study)
+## Day 1: 0:00 - 8:00 (22 minutes of study)
 
 Im gonna setup my playwright first.
 
@@ -27,11 +27,11 @@ Playwright Capabilities:
 - Playwright Test Runner
 - Docker Support
 
-Day 2: 0:00:00 - 1:27:32 (2 hours 30 minute of study)
+## Day 2: 0:00:00 - 1:27:32 (2 hours 30 minute of study)
 
 Today im gonna TRY MY BEST to finish this. Because i got something to do tomorrow.
 
-Part 1: Basic Scripts using function and selectors (1 Hours 10 minute)
+### Part 1: Basic Scripts using function and selectors (1 Hours 10 minute)
 
 What i learn:
 
@@ -51,7 +51,7 @@ Okay what? I had a hard time getting xpath. Idk if its me typing wrong thing or 
 - npm = download
 - npx = execute
 
-part 2: Playwright features (30 minutes)
+### Part 2: Playwright features (30 minutes)
 
 1. Record test script
 2. Reports = reporter
@@ -65,7 +65,7 @@ What i learn:
 - put npx playwright test in playwright.json scripts and i can run with npm (shortcut)
 - all of this is straight forward. almost no code.
 
-part 3: Inputs and Button (48 minutes)
+### Part 3: Inputs and Button (48 minutes)
 
 i practice a bit and its safe to say that i understand this 95% and remember the syntax like 50%. Its because i havent use much yet. But you know remembering comes from doing over and over again.
 
@@ -81,9 +81,9 @@ i practice a bit and its safe to say that i understand this 95% and remember the
 
 Okay its 8pm now. Actually im pretty tired. I still got thesis to do. IDK if i will be able to finish this today. Okay i mean it is physically impossible unless i speedrun through this withot following the video. Well i think im gonna rest now. IDK if im gonna continue or not. But lets just see. I will take a short break and see if i want to continue or not.
 
-Day 3:
+## Day 3:
 
-part 4: alerts and dropdowns (50 minutes of study)
+### Part 4: alerts and dropdowns (50 minutes of study)
 
 I end up not continuing. Okay sorry for that. I will continue today and hopefully finish it. There is still hours, but i will try to focus and speedrun it while keeping the integrity.
 
@@ -110,7 +110,9 @@ what i learn:
 
 Okay idk what i am feeling but this is like REALLY REALLY EASY. Not gonna lie once you understand, its only about using function correctly. Okay... Speedrunning
 
-part 5: Frames and window handling
+### Part 5: Frames and window handling
+
+Okay, after i finished part 4. I am doing something else which is trying to automate something by myself and it took me like almost 3 hours. But i will continue part 5 right now. After part 5, I will see if I still can do part 6. If can't i will continue tomorrow. Not that i can't physically. But i can't mentally. Tomorrow i will also do my Job interview test, wish me luck. I really want to get a job XDDD. Okay lets continue.
 
 - Interaction with Frames
 - Multiple ways to handle frames
