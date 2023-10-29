@@ -47,7 +47,7 @@
         "testDir": "E:/Discipline/Learn Playwright",
         "testIgnore": [],
         "testMatch": [
-          "tests/windows.test.ts"
+          "Fixture/fixtest.test.ts"
         ],
         "timeout": 30000
       }
@@ -60,13 +60,13 @@
   },
   "suites": [
     {
-      "title": "tests\\windows.test.ts",
-      "file": "tests/windows.test.ts",
+      "title": "Fixture\\fixtest.test.ts",
+      "file": "Fixture/fixtest.test.ts",
       "column": 0,
       "line": 0,
       "specs": [
         {
-          "title": "Interact with multiple tabs",
+          "title": "Fixture Demo",
           "ok": true,
           "tags": [],
           "tests": [
@@ -80,39 +80,33 @@
                 {
                   "workerIndex": 0,
                   "status": "passed",
-                  "duration": 3189,
+                  "duration": 84,
                   "errors": [],
                   "stdout": [
                     {
-                      "text": "\u001b[33m2\u001b[39m\n"
-                    },
-                    {
-                      "text": "https://www.lambdatest.com/selenium-playground/window-popup-modal-demo\n"
-                    },
-                    {
-                      "text": "https://www.facebook.com/lambdatest/\n"
+                      "text": "\u001b[33m27\u001b[39m martinasdasd@gmail.com\n"
                     }
                   ],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2023-10-28T14:46:17.085Z",
+                  "startTime": "2023-10-29T08:39:38.574Z",
                   "attachments": []
                 }
               ],
               "status": "expected"
             }
           ],
-          "id": "98c21ebe87e39c315e15-ab38da95de1cb30408a1",
-          "file": "tests/windows.test.ts",
+          "id": "58363a3e2e9a3e7becf1-6038c2e10a52c7a970f3",
+          "file": "Fixture/fixtest.test.ts",
           "line": 3,
-          "column": 5
+          "column": 3
         }
       ]
     }
   ],
   "errors": [],
   "stats": {
-    "startTime": "2023-10-28T14:46:15.947Z",
-    "duration": 5380.774
+    "startTime": "2023-10-29T08:39:36.629Z",
+    "duration": 2074.081
   }
 }
